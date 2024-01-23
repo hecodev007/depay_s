@@ -1,0 +1,34 @@
+node_modules
+.secret
+coverage
+coverage.json
+typechain
+test
+hardhat.config.js
+#Hardhat files
+cache
+artifacts
+scripts
+node_modules
+.env
+coverage
+coverage.json
+typechain
+typechain-types
+
+#Hardhat files
+cache
+artifacts
+
+
+node_modules
+.env
+coverage
+coverage.json
+typechain
+typechain-types
+
+# Hardhat files
+cache
+artifacts
+
